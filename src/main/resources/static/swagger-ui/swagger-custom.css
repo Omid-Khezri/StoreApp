@@ -1,0 +1,8 @@
+body {
+    background-color: #f0f0f0 !important; /* hellgrauer Hintergrund */
+}
+
+.swagger-ui .topbar {
+    background-color: #333333 !important; /* obere Leiste dunkelgrau */
+    color: white !important;
+}
