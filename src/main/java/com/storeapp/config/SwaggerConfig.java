@@ -22,8 +22,12 @@ public class SwaggerConfig {
                         .addSecuritySchemes("basicScheme",
                                 new SecurityScheme()
                                         .type(SecurityScheme.Type.HTTP)
+<<<<<<< HEAD
                                         .scheme("bearer")
                                         .bearerFormat("JWT")))
+=======
+                                        .scheme("basic")))
+>>>>>>> f7b2480b7a793429ea2ae60fb627f730e2fc91d2
                 .addSecurityItem(new SecurityRequirement().addList("basicScheme"));
     }
 }
