@@ -11,6 +11,7 @@ Rollenbasierter Zugriff (User/Admin)
 Swagger-UI für Admins: /swagger-ui.html
 
 Setup
+
 Voraussetzungen
 
 Java 17+
