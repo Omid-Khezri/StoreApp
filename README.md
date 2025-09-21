@@ -1,6 +1,6 @@
 Ein Spring Boot Projekt mit JWT-Authentifizierung und Spring Security.
 
-Features
+Features:
 
 Login-Endpoint: /auth/login
 
@@ -10,9 +10,8 @@ Rollenbasierter Zugriff (User/Admin)
 
 Swagger-UI für Admins: /swagger-ui.html
 
-Setup
 
-Voraussetzungen
+Voraussetzungen:
 
 Java 17+
 
